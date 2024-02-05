@@ -36,6 +36,6 @@ EDA involves exploring the sales data to answer key questuions, such as:
 
 ### Data Analysis
 
-- Pivot tables
+- Pivot tables..
   
    
