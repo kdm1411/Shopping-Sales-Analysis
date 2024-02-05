@@ -5,10 +5,10 @@
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#data-cleaning/,preparation)
+- [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
-- [Result/Findings](#result/findings)
+- [Results](#results)
 - [Recomendations](#recomendations)
 - [Limitations](#limitations)
 - [References](#references)
@@ -16,6 +16,10 @@
 ### Project Overview.
 
 This data analysis project is aims to provide insight into the sales performace of a boutique ove the past year. By analysng various part of sales data, we seek to identify the trengs, make data driven recommendations, and gain deeper understanding of the business performace.
+
+
+![Shopping Dashboard](https://github.com/kdm1411/Shopping-Sales-Analysis/assets/150349346/6e2d564d-2d55-42c8-8c32-8de2ae415c09)
+
 
 ### Data Source
 
@@ -25,7 +29,7 @@ Sales Data: The primary dataset used for this analysis is the 'shoppingdata.xlsv
 
 Microsoft Excel- Data Cleaning, Data Analysis & Creating Report
 
-### Data Cleaning/Preparation.
+### Data Cleaning.
 
 In the initial Data prepartion phase, we performed the following tasks
 
@@ -51,7 +55,7 @@ EDA involves exploring the sales data to answer key questuions, such as:
 
 - Pivot tables..
 
- ### Result/Findings.
+ ### Results.
 
  The analysis results are summarized as follows:
  1. The business had the highest sales in Montana State in America
