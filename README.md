@@ -15,7 +15,7 @@
 
 ### Project Overview.
 
-This is an excel project on sale analysis of an imaginary store called **shopping store**
+This is an excel project on sale analysis of an imaginary store called **Shopping store**.  
 The aim of the priject is to provide insight into the sales performace over the past year. By analysng various part of sales data, we seek to identify the trends, make data driven recommendations, and gain deeper understanding of the business performace.
 
 
