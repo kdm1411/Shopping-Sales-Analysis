@@ -15,7 +15,8 @@
 
 ### Project Overview.
 
-This data analysis project is aims to provide insight into the sales performace of a Shopping' over the past year. By analysng various part of sales data, we seek to identify the trends, make data driven recommendations, and gain deeper understanding of the business performace.
+This is an excel project on sale analysis of an imaginary store called **shopping store**
+The aim of the priject is to provide insight into the sales performace over the past year. By analysng various part of sales data, we seek to identify the trends, make data driven recommendations, and gain deeper understanding of the business performace.
 
 
 ![Shopping Dashboard](https://github.com/kdm1411/Shopping-Sales-Analysis/assets/150349346/6e2d564d-2d55-42c8-8c32-8de2ae415c09)
