@@ -71,6 +71,7 @@ Based on the analysis, we recommend the following actions:
 - Invest in marketing campaigns during the peak sales season to maximize revenue and also the summer & winter seasons.
 - Focus on expanding and promoting products in the accessories category.
 - implement sales strategies like promotions & discount for the female gender produts.
+- Attention should be given to the teenage products as it recorded a low patronage.
 
 ### Limitations.
 
