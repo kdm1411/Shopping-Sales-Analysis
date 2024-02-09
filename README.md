@@ -40,7 +40,7 @@ In the initial Data prepartion phase, we performed the following tasks
 4. Check outliers
 5. Find and replace wrong charaters
 6. Data filtering
-7. Despritive analysis if the data
+7. Despritive analysis of the data
 8. Xlook up
 
 ### Exploratory Data Analysis
