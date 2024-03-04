@@ -32,11 +32,11 @@ Microsoft Excel- Data Cleaning, Data Analysis & Creating Report
 
 ### Data Cleaning.
 
-In the initial Data prepartion phase, we performed the following tasks
+In the initial Data prepartion phase, we performed the following tasks:
 
 1. Data loading and inspections
 2. Remove Duplicate values
-3. Handing missing values
+3. Handling missing values
 4. Check outliers
 5. Find and replace wrong charaters
 6. Data filtering
