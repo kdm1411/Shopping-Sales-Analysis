@@ -19,7 +19,7 @@ This is an excel project on sale analysis of a store called **Shopping store**.
 The aim of the project is to provide insight into the sales performace over the past year. By analysng various part of sales data, we seek to identify the trends, make data driven recommendations, and gain deeper understanding of the business performace.
 
 
-![shopping Dashboard](https://github.com/kdm1411/Shopping-Sales-Analysis/assets/150349346/e58651e5-7488-4512-afda-aaf042bbced9)
+![Shopping Dashbaord#](https://github.com/kdm1411/Shopping-Sales-Analysis/assets/150349346/60413881-066b-4d9e-b2d4-3a4b6a597b81)
 
 
 
