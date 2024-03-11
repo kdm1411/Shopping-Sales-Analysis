@@ -60,7 +60,7 @@ EDA involves exploring the sales data to answer key questuions, such as:
  ### Results.
 
  The analysis results are summarized as follows:
- 1. The business had the highest sales in Montana State in America
+ 1. The business had the highest orders in Montana State in America
  2. The most preffered color of customers by orders is 'Olive'
  3. Customers orders more during the Spring Season
  4. Pants, blouse & jewelry are the products with highest orders.
